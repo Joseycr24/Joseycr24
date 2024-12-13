@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Joseycr24&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
 </p>
@@ -193,9 +193,6 @@ If you have any questions about **Data Science**, **Machine Learning**, **Explor
 ![Bottom of pokeball](https://github.com/Joseycr24/Joseycr24/blob/main/fila-2-columna-1.jpg)
 
 </div>
-
-
-#![Profile views](https://komarev.com/ghpvc/?username=Joseycr24&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🚀  Key Skills
 
