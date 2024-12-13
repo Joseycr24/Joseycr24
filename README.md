@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
-  <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> Soy Jose Castro Rodriguez.   Soy Ingeniero Químico en transición al mundo de Data Science.
-  </samp>
 </p>
 
 
@@ -47,21 +44,21 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} location - Cartagena de Indias, Colombia.
+ * @param {string} languages - Español, Inglés.
+ * @param {string} jobTitle - Aspiring Data Scientist.
+ * @param {string} specialization - Data Analysis, Machine Learning, and Predictive Modeling.
+ * @param {string} interests - Financial analytics, Artificial Intelligence, and exploring data insights.
+ * @param {string} hobbies - Reading, solving data challenges, and exploring technology.
+ * @param {string} education - Chemical Engineer, University of Cartagena.
+ * @param {string} bootcamp - Data Science Bootcamp, TripleTen by Yandex.
+ * @param {string} approachable - Yes, always open to collaboration on data-driven projects.
+ * @param {string} strength - Analytical mindset and problem-solving skills.
+ * @param {string} weakness - New to Agile methodologies like Scrum or Kanban.
  *
- * @throws {Punch} To any and all bugs.
+ * @throws {Punch} To messy datasets and uncleaned data.
  *
- * @returns {Object} Kartik.
- */
+ * @returns {Object} Jose Castro Rodriguez. */
 ```
 
 </div>
