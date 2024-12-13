@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*mgXvzNcwfpnBawI6XTkVRg.png" alt="Your Image" />
+</p>
+
+<p align="center">
+
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
 </p>
@@ -191,9 +196,6 @@ If you have any questions about **Data Science**, **Machine Learning**, **Explor
 
 
 #![Profile views](https://komarev.com/ghpvc/?username=Joseycr24&label=Profile%20views&color=0e75b6&style=flat)
-
-
-![](https://cdn-images-1.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png)
 
 ### 🚀  Key Skills
 
