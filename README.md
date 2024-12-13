@@ -222,7 +222,7 @@ Here are some ideas to get you started:
   <br>
   <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
   <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/Joseycr24/Joseycr24/refs/heads/main/DALL%C2%B7E%202024-12-13%2000.00.52%20-%20A%20funny%20and%20creative%20illustration%20with%20the%20text%20'Q_%20Why%20did%20the%20neural%20network%20go%20to%20school_%20A_%20To%20improve%20its%20learning%20rate.'%20The%20text%20should%20be%20prom.webp" alt="Jokes Card" /></div>
 </details>
 
 <details>
