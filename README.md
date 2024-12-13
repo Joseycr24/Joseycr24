@@ -134,7 +134,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=josecastro&show_icons=true&show=commits,prs_merged,issues" alt="GitHub Stats">
   </p>
 </details>
 
@@ -142,10 +142,7 @@
   <summary>Open Source Contributions</summary>
   <br>
   <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
+    <li><strong>No-Country-simulation - c21-47-ft-data-bi:</strong> Contributed to the development of a data BI project focused on business intelligence and data processing.</li>
   </ul>
 </details>
 
@@ -172,11 +169,9 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+## Let's Work on Your Data Science Projects Together!
 
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about **Data Science**, **Machine Learning**, **Exploratory Data Analysis**, **Data Visualization**, or any other related topic, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>. I’d love to collaborate and help you solve your data challenges.
 
   </td>
   <td width="50%" valign="top">
