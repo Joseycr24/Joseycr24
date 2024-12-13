@@ -194,6 +194,22 @@ If you have any questions about **Data Science**, **Machine Learning**, **Explor
 
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jose-yezid-castro-rodriguez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Joseycr24" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" />
+  </a>
+  <a href="mailto:jcastroprogrammer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" />
+  </a>
+  <a href="mailto:jcastroprogrammer@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hotmail&color=0072C6&logo=Microsoft-Outlook&logoColor=FFFFFF&label=" alt="Hotmail" />
+  </a>
+</div>
+
+
 ### 🚀  Key Skills
 
 - **Data Analysis:** Data cleaning, processing, and exploratory analysis using Python (pandas, NumPy, matplotlib, seaborn).
