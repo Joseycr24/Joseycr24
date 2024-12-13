@@ -212,8 +212,8 @@ Here are some ideas to get you started:
   <summary>Quote</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    “La ingeniería química me enseñó a abordar problemas complejos con un enfoque sistemático, mientras que Data Science me brinda las herramientas para transformar grandes volúmenes de datos en insights clave, permitiéndome tomar decisiones informadas y optimizar procesos en cualquier industria.”
+    <br><strong>Jose Castro Rodriguez</strong>
   </blockquote>
 </details>
 
