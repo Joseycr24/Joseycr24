@@ -1,12 +1,7 @@
-
 <p align="center">
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
 </p>
-
-
-
-
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
@@ -195,38 +190,29 @@ If you have any questions about **Data Science**, **Machine Learning**, **Explor
 </div>
 
 
-
-
-
-
-
-
-
-
-
 #![Profile views](https://komarev.com/ghpvc/?username=Joseycr24&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ![](https://cdn-images-1.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png)
 
-🚀 Habilidades principales
+### 🚀  Key Skills
 
-* **Análisis de Datos**: Limpieza, procesamiento y análisis exploratorio utilizando Python (pandas, NumPy, matplotlib, seaborn).
-* **Machine Learning**: Modelos predictivos, clasificación, regresión y clustering con bibliotecas como scikit-learn, XGBoost, y TensorFlow.
-* **SQL**: Consultas avanzadas, manejo de bases de datos relacionales, y optimización de consultas.
-* **Visualización de Datos**: Creación de dashboards interactivos con Power BI y gráficos con matplotlib, seaborn y plotly.
+- **Data Analysis:** Data cleaning, processing, and exploratory analysis using Python (pandas, NumPy, matplotlib, seaborn).
+- **Machine Learning:** Predictive modeling, classification, regression, and clustering with libraries like scikit-learn, XGBoost, and TensorFlow.
+- **SQL:** Advanced queries, relational database management, and query optimization.
+- **Data Visualization:**Creation of interactive dashboards with Power BI and visualizations using matplotlib, seaborn, and plotly.
 
-🌟 ¿Cómo puedo aportar a tu empresa?
+### 🌟 How can I contribute to your company?
 
-1. **Transformar datos en decisiones**: Analizo y modelo datos para obtener insights que impulsen estrategias de negocio y optimicen procesos.
-2. **Automatización de procesos**: Desarrollo soluciones eficientes mediante Machine Learning y scripts personalizados en Python.
-3. **Visualización de datos efectiva**: Diseño dashboards y reportes que facilitan la interpretación de información para la toma de decisiones.
-4. **Resolución de problemas complejos**: Aplicación de análisis predictivo y exploración avanzada para prever tendencias y minimizar riesgos.
+1. **Transform data into decisions:** I analyze and model data to extract insights that drive business strategies and optimize processes.
+2. **Process automation:** I develop efficient solutions through Machine Learning and custom Python scripts.
+3. **Effective data visualization:** I design dashboards and reports that make information easy to interpret for decision-making.
+4. **Solving complex problems:** I apply predictive analysis and advanced exploration to forecast trends and minimize risks.
 
-📫 ¡Conectemos!
+### 📫 Let's Connect!
 
-Estoy entusiasmado por colaborar en proyectos que impulsen la innovación a través de los datos. Si tu empresa está buscando alguien con habilidades analíticas y pasión por el aprendizaje continuo, no dudes en contactarme.
+I’m excited about the opportunity to collaborate on projects that drive innovation through data. If your company is looking for someone with strong analytical skills and a passion for continuous learning, feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/jose-yezid-castro-rodriguez/)
 
-Correo electrónico : jcastroprogrammer@hotmail.com
+Email : jcastroprogrammer@hotmail.com
