@@ -27,7 +27,7 @@
 <br>
 <div>
   <div align="center">
-      <img height="200" alt="Avatar photo of Jose Castro" src="https://your-image-url.jpg" />
+      <img height="200" alt="Avatar photo of Jose Castro" src="https://github.com/Joseycr24/Joseycr24/blob/main/image.png" />
   </div>
   <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Jose+Castro;Welcome+to+My+GitHub+Profile;Data+Scientist+in+the+making;Passionate+about+Machine+Learning;Exploring+Data+Insights;AI+and+Statistics+Enthusiast;Python+and+SQL+Expert;Lifelong+Learner;Problem+Solver;Data+Driven+Mindset" alt="Typing SVG" /></a>
